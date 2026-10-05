@@ -1,0 +1,15 @@
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\bin\Debug\net10.0\Lab03-Badge.exe
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\bin\Debug\net10.0\Lab03-Badge.deps.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\bin\Debug\net10.0\Lab03-Badge.runtimeconfig.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\bin\Debug\net10.0\Lab03-Badge.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\bin\Debug\net10.0\Lab03-Badge.pdb
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.AssemblyInfoInputs.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.AssemblyInfo.cs
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.csproj.CoreCompileInputs.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.sourcelink.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\refint\Lab03-Badge.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.pdb
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\Lab03-Badge.genruntimeconfig.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab03-Badge\obj\Debug\net10.0\ref\Lab03-Badge.dll
