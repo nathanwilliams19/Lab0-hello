@@ -1,0 +1,15 @@
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\bin\Debug\net10.0\Lab02 Trip Calculator.exe
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\bin\Debug\net10.0\Lab02 Trip Calculator.deps.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\bin\Debug\net10.0\Lab02 Trip Calculator.runtimeconfig.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\bin\Debug\net10.0\Lab02 Trip Calculator.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\bin\Debug\net10.0\Lab02 Trip Calculator.pdb
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.AssemblyInfoInputs.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.AssemblyInfo.cs
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.sourcelink.json
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\refint\Lab02 Trip Calculator.dll
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.pdb
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\Lab02 Trip Calculator.genruntimeconfig.cache
+C:\Users\hnath\CSCI1250\Lab0-hello\Lab02-trip\Lab02 Trip Calculator\obj\Debug\net10.0\ref\Lab02 Trip Calculator.dll
