@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02 Trip Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f79b4d66b7f706016e46b3760006c206a4d5daab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc508d2d96267574cb0198a50542aea133671c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02 Trip Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02 Trip Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
